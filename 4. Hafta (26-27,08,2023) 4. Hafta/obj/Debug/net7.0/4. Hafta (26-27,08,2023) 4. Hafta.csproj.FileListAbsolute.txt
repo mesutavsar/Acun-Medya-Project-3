@@ -1,0 +1,15 @@
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\4. Hafta (26-27,08,2023) 4. Hafta\4. Hafta (26-27,08,2023) 4. Hafta\bin\Debug\net7.0\4. Hafta (26-27,08,2023) 4. Hafta.exe
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\4. Hafta (26-27,08,2023) 4. Hafta\4. Hafta (26-27,08,2023) 4. Hafta\bin\Debug\net7.0\4. Hafta (26-27,08,2023) 4. Hafta.deps.json
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\4. Hafta (26-27,08,2023) 4. Hafta\4. Hafta (26-27,08,2023) 4. Hafta\bin\Debug\net7.0\4. Hafta (26-27,08,2023) 4. Hafta.runtimeconfig.json
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\4. Hafta (26-27,08,2023) 4. Hafta\4. Hafta (26-27,08,2023) 4. Hafta\bin\Debug\net7.0\4. Hafta (26-27,08,2023) 4. Hafta.dll
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\4. Hafta (26-27,08,2023) 4. Hafta\4. Hafta (26-27,08,2023) 4. Hafta\bin\Debug\net7.0\4. Hafta (26-27,08,2023) 4. Hafta.pdb
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\4. Hafta (26-27,08,2023) 4. Hafta\4. Hafta (26-27,08,2023) 4. Hafta\obj\Debug\net7.0\4. Hafta (26-27,08,2023) 4. Hafta.csproj.AssemblyReference.cache
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\4. Hafta (26-27,08,2023) 4. Hafta\4. Hafta (26-27,08,2023) 4. Hafta\obj\Debug\net7.0\4. Hafta (26-27,08,2023) 4. Hafta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\4. Hafta (26-27,08,2023) 4. Hafta\4. Hafta (26-27,08,2023) 4. Hafta\obj\Debug\net7.0\4. Hafta (26-27,08,2023) 4. Hafta.AssemblyInfoInputs.cache
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\4. Hafta (26-27,08,2023) 4. Hafta\4. Hafta (26-27,08,2023) 4. Hafta\obj\Debug\net7.0\4. Hafta (26-27,08,2023) 4. Hafta.AssemblyInfo.cs
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\4. Hafta (26-27,08,2023) 4. Hafta\4. Hafta (26-27,08,2023) 4. Hafta\obj\Debug\net7.0\4. Hafta (26-27,08,2023) 4. Hafta.csproj.CoreCompileInputs.cache
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\4. Hafta (26-27,08,2023) 4. Hafta\4. Hafta (26-27,08,2023) 4. Hafta\obj\Debug\net7.0\4. Hafta (26-27,08,2023) 4. Hafta.dll
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\4. Hafta (26-27,08,2023) 4. Hafta\4. Hafta (26-27,08,2023) 4. Hafta\obj\Debug\net7.0\refint\4. Hafta (26-27,08,2023) 4. Hafta.dll
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\4. Hafta (26-27,08,2023) 4. Hafta\4. Hafta (26-27,08,2023) 4. Hafta\obj\Debug\net7.0\4. Hafta (26-27,08,2023) 4. Hafta.pdb
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\4. Hafta (26-27,08,2023) 4. Hafta\4. Hafta (26-27,08,2023) 4. Hafta\obj\Debug\net7.0\4. Hafta (26-27,08,2023) 4. Hafta.genruntimeconfig.cache
+C:\Users\mesut\OneDrive\Masaüstü\C# Dersleri\4. Hafta (26-27,08,2023) 4. Hafta\4. Hafta (26-27,08,2023) 4. Hafta\obj\Debug\net7.0\ref\4. Hafta (26-27,08,2023) 4. Hafta.dll

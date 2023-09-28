@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "4. Hafta (26-27,08,2023) 4. Hafta/1.0.0": {
+        "runtime": {
+          "4. Hafta (26-27,08,2023) 4. Hafta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "4. Hafta (26-27,08,2023) 4. Hafta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

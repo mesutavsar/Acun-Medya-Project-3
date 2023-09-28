@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Hafta (26-27,08,2023) 4. Hafta", "4. Hafta (26-27,08,2023) 4. Hafta\4. Hafta (26-27,08,2023) 4. Hafta.csproj", "{FAC70073-6C52-4635-B20B-78EA708D785D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAC70073-6C52-4635-B20B-78EA708D785D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC70073-6C52-4635-B20B-78EA708D785D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC70073-6C52-4635-B20B-78EA708D785D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC70073-6C52-4635-B20B-78EA708D785D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D86940F-BE0A-4CDA-97C8-8AB3C5598BA4}
+	EndGlobalSection
+EndGlobal
